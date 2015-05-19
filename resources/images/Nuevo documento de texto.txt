@@ -1,0 +1,147 @@
+Teacher 1:
+Juan, 30
+Activities: Fitness, Boxing, Bodyweight
+Years Experience: 20
+
+Teacher 2:
+Pedro, 33
+Activities: Cardio, Bicycling, Aerobics, Fitness
+Years Experience: 21
+
+Teacher 3:
+Maria, 27
+Activities: Aerobics, Swimming, Jogging
+Years Experience: 12
+
+
+
+Juan:
+I graduated from HUNTER COLLEGE with a Bachelor’s degree in Physical Education, I hold an Associate degree 
+from LAGUARDIA COLLEGE in Physical Therapy. I am also certified as a massage therapist, Fitness, Bodyweight and 
+Boxing instructor. As a personal trainer I specialize in performance enhancement and corrective exercise 
+specialist through the National Academy of Sports Medicine (NASM). I have been personal training for over 20 years 
+and working all populations with many different injuries. I enjoy biking and handball on my days off work.
+
+Years Experience: 20
+
+Activities:Fitness, Boxing, Bodyweight
+
+Certs: ACSM, KBC, TRX, Balanced Body
+
+Courses: Crossfit, boxing, yoga
+
+Pedro:
+My training practice is based on helping you live a healthier life. As such, I will improve your posture and 
+core before moving on to more advanced exercises. Drawing from my military and martial arts background, I know 
+that I cannot lead where I will not go. This means that any exercise I ask you to do, I have also done in my workouts. 
+I will not just teach you the technique, but I can tell you how the exercise feels and how it will help you over the 
+course of time. I exercise, eat a healthy diet, keep my stress levels low, and in many other ways live the same life I 
+teach. In my free time, you will find me rock climbing with my children, and otherwise enjoying the benefits of good 
+health. Whether you want to compete in an Ironman or if you just want to stand up straight, my training methods will 
+help you to achieve your goals. Come see for yourself!
+
+Years Experience: 21
+
+Activities: Cardio, Bicycling, Aerobics, Fitness
+
+Certs: NASM, TRX, ACE
+
+Courses: martial arts, climbing, spinning
+
+
+
+Maria:
+Hello, My name is Kate, and I have been a part of the dance and/or fitness industry for 16 years. To see people inspired 
+to be as healthy as they can be, this is my mission. “Exercise.” That word makes some people jump for joy while others 
+cringe. There is so much more to exercise than treadmills and bodybuilding. I take it as my responsibility to work with 
+you, as my client, to discover how to enjoy working out, both in traditional and not-so-traditional ways. My background 
+is diverse, with a wide range of experience in dance, group fitness, Pilates, TRX, Zumba, beginner through intense 
+bootcamps, and both under and overweight clientele.
+
+Years Experience: 12
+
+Activities: Aerobics, Swimming, Jogging
+
+Certs: ACE, ACSM, Zumba
+
+Courses: yoga, zumba, crossfit, swimming
+
+
+
+12 cursos:
+Aerobics
+Bicycling
+Bodyweight
+Boxing
+Cardio
+Fitness
+Jogging
+Rehabilitation
+Running
+Swimming
+Yoga
+Zumba
+
+
+10 Salas
+Fitness Room
+Swimming Pool
+Cardio Room
+Guided Activities Room 1
+Guided Activities Room 2
+Hardcircuit
+Spinning Room
+Running Track
+Climbing Wall
+Boxing Room
+
+
+
+Courses:
+
+Boxing:
+
+Boxing is a combat sport in which two people engage in a contest of strength, speed, reflexes, endurance and will, by throwing punches at each other,
+usually with gloved hands. Historically, the goals have been to weaken and knock down the opponent.
+Amateur boxing is both an Olympic and Commonwealth sport and is a common fixture in most international games?it also has its own World Championships.
+Boxing is supervised by a referee over a series of one- to three-minute intervals called rounds. 
+The result is decided when an opponent is deemed incapable to continue by a referee, is disqualified for breaking a rule, resigns by throwing in a towel,
+or is pronounced the winner or loser based on the judges' scorecards at the end of the contest.
+In the event that both fighters gain equal scores from the judges, the fight is considered a draw.
+
+The boxing course with be splited in 3 different levels for the amateurs, intermediates and professionals.
+
+
+Aerobic:
+
+Aerobic exercise is any physical activity that makes you sweat, causes you to breathe harder and gets your heart beating faster than at rest. 
+It strengthens your heart and lungs and trains your cardiovascular system to manage and deliver oxygen more quickly and efficiently throughout your body. 
+Aerobic exercise uses your large muscle groups, is rhythmic in nature and can be maintained continuously for at least 10 minutes.
+Before going into the benefits of aerobic exercise, let's break down some key terms mentioned above:
+Cardiovascular system - is made up of your heart and blood vessels e.g., arteries, veins, and capillaries that transports blood throughout the body.
+Aerobic - refers to how your body uses oxygen to sufficiently meet energy demands during exercise.
+
+Benefits
+In addition to strengthening your heart and cardiovascular system, participation in regular aerobic exercise has many health benefits. Aerobic exercise:
+
+Improves your circulation and helps your body use oxygen better
+Increases energy
+Increases endurance, which means you can workout longer without getting tired
+Helps reduce the risk of developing heart disease
+Helps reduce the risk of developing diabetes
+Helps reduce body fat
+Helps you reach and maintain a healthy weight
+Helps reduce stress, tension, anxiety and depression
+Improves sleep
+
+Yoga: 
+
+Yoga is a practical aid, not a religion. Yoga is an ancient art based on a harmonizing system of development for the body, mind, and spirit. 
+The continued practice of yoga will lead you to a sense of peace and well-being, and also a feeling of being at one with their environment.
+This is a simple definition.
+The practice of yoga makes the body strong and flexible, it also improves the functioning of the respiratory, circulatory, digestive, and hormonal systems.
+Yoga brings about emotional stability and clarity of mind.
+In the practice of Yoga the ultimate aim is one of 
+self-development and self-realization.
+
+Everyone is able to practice Yoga!
