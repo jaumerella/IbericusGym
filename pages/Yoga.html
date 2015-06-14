@@ -12,6 +12,7 @@
     <title>IBERCUS GYM</title>
 
     <link href="../css/bootstrap-3.3.4-dist/css/bootstrap.css" rel="stylesheet">
+
     <a href="../index.html"><img src="../resources/images/iconos/logo3.gif">
     </a>
 
@@ -60,30 +61,60 @@
     <ol class="breadcrumb">
         <li><a href="../index.html">Home</a>
         </li>
-        <li><a href="#" class="active">Courses</a>
+        <li><a href="../pages/courses.html">Courses</a>
+        </li>
+        <li><a href="#" class="active">Yoga</a>
         </li>
     </ol>
 
-    <div style="position:relative; left:100px; width:80%;">
-        <h2>Courses</h2>
-        <h3 style="margin-left: 900px; width: 186px; margin-top: -15px; margin-bottom: 50px;"><a href="coursesByLevel.html">Courses by Level</a></h3>
+
+    <div class="list-group">
+        <a href="#" class="list-group-item active">
+    Courses
+  </a>
+        <div class='courses'></div>
+
     </div>
 
-    <style>
-        td {
-            width : 30%;
-        }
-        img.cell {
-            margin-left: 145px;
-        }
-    </style>
+    <div style="position:relative; left:170px; width:80%;">
 
-    <div class="courseslist" style="width: 96%; margin-left: 2%; margin-right: 2%; background-color: rgb(230, 231, 255);"></div>
+        <h2>Yoga</h2>
+
+
+        <style>
+            img.imageCourseBig {
+                margin: 5px;
+                width: 500px;
+                height: 350px;
+                border: 1px solid #000;
+            }
+            
+            img.imageCourseSmall {
+                margin-left: 5px;
+                width: 200px;
+                height: 150px;
+                border: 1px solid #000;
+            }
+        </style>
+
+
+        <div class='cdesc'></div>
+        <br>
+        <div class='yogaroom'></div>
+        <br>
+        <div class='yogaimages'></div>
+        <br>
+    </div>
+
+    <div style="position:relative; left:60%; width:100px; top:-550px;">
+        <h4 class='yogainstructors' style="width:200px;"></h4>
+        <br>
+        <button class="btn btn-default" style="width:200px; height:50px;">Register to Course</button>
+    </div>
 
 </body>
 
-
-<footer style="position:relative; margin-top:50px; border-top: 1px solid #000;">
+<footer style="position:relative; margin-top:-200px; border-top: 1px solid #000;">
     <div class="container">
 
         <div class="row">
